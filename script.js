@@ -1,4 +1,6 @@
-// Cursor following effect
+window.onload = () => {
+  document.body.style.visibility = "visible";
+};
 const cursor = document.querySelector('.cursor');
 document.addEventListener('mousemove', (e) => {
     cursor.style.left = e.clientX + 'px';
