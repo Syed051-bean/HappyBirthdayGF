@@ -6,7 +6,10 @@ document.addEventListener('mousemove', (e) => {
 });
 
 // Typing effect for greeting
-const greetingText = "Hey You Know What! You're the most adorable human i ever met! 💖";
+const greetingText = "On this special day, I just want you to know how truly precious you are ❤️ May Allah keep your heart close to Him, guide you on the straight path, and make you  more beautiful 💗 with patience, kindness, and strength. I always ask Allah to grant you what is best for you
+May He guide your steps, ease your worries, and grant you success in all that is good 😊
+May every year bring you closer to goodness in this world and the Hereafter.
+Ameen...❣️! 💖";
 const greetingElement = document.querySelector('.greeting');
 let charIndex = 0;
 
