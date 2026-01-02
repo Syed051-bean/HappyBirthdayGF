@@ -82,6 +82,6 @@ h1 {
 
 @media (max-width: 768px) {
     h1 { font-size: 2rem; }
-    .greeting { font-size: 1.2rem; }
+    .greeting { font-size: 1.3rem; }
     .cta-button { font-size: 1rem; }
 }
